@@ -18,4 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Проект можно посмотреть по ссылке - https://madmanre.github.io/vue-app/
+
